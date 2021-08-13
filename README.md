@@ -7,3 +7,7 @@ The player needs to remember the pattern of colors in order to keep winning.
 ![Screenshot (173)](https://user-images.githubusercontent.com/71843674/125126033-23bd3800-e118-11eb-85d2-82d750ea331e.png)
 
 ## [Play here >>](https://anuragreacts.github.io/Simon-Game/)
+
+### Contributors :
+* Abhishek Sharma [181112068]
+* Anurag Phulware [181112044]
